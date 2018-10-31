@@ -1,3 +1,3 @@
-# ALGue.github.io
+# FIRSTNAME FAMILYNAME's Web Site
 
-hello world
+This is served as https://ALGue.github.io, and the sources are in https://github.com/ALGue/blogdown.source-ALGue.
